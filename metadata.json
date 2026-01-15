@@ -1,0 +1,9 @@
+{
+  "name": "Trusthire",
+  "description": "A comprehensive platform for students to detect job and internship scams, receive career guidance based on skills, and verify company legitimacy using advanced AI analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
